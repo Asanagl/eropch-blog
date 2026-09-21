@@ -1,0 +1,106 @@
+{
+ "backup/banner.webp": "ok",
+ "backup/banner-600w.webp": "ok",
+ "backup/banner-800w.webp": "ok",
+ "backup/favicon.ico": "ok",
+ "backup/reimu.png": "ok",
+ "backup/covers_originals": 9,
+ "banner/banner.webp": "1920x1079 139KB",
+ "banner/banner-800w.webp": "800x450 34KB",
+ "banner/banner-600w.webp": "600x337 22KB",
+ "favicon.ico": "from C1.png 313x311",
+ "reimu.png": "overwritten by avatar_ori.png",
+ "new_cover_sources": [
+  "148760701_p0.jpg",
+  "126625359_p0.jpg",
+  "137011229_p0.png",
+  "124540199_p0.jpg",
+  "143021087_p0.jpg",
+  "141659421_p0.jpg",
+  "138759182_p0.png",
+  "142268131_p0.png"
+ ],
+ "cover_pool": [
+  [
+   "cover_01.webp",
+   "1600x900",
+   "271KB"
+  ],
+  [
+   "cover_02.webp",
+   "1200x652",
+   "108KB"
+  ],
+  [
+   "cover_03.webp",
+   "1200x676",
+   "99KB"
+  ],
+  [
+   "cover_04.webp",
+   "1200x742",
+   "109KB"
+  ],
+  [
+   "cover_05.webp",
+   "1200x818",
+   "138KB"
+  ],
+  [
+   "cover_06.webp",
+   "1600x900",
+   "75KB"
+  ],
+  [
+   "cover_07.webp",
+   "1600x900",
+   "172KB"
+  ],
+  [
+   "cover_08.webp",
+   "1600x900",
+   "196KB"
+  ],
+  [
+   "cover_09.webp",
+   "1600x796",
+   "126KB"
+  ],
+  [
+   "cover_11.webp",
+   "1600x1067",
+   "151KB"
+  ],
+  [
+   "cover_13.webp",
+   "1600x899",
+   "91KB"
+  ],
+  [
+   "cover_15.webp",
+   "1600x1200",
+   "121KB"
+  ],
+  [
+   "cover_17.webp",
+   "1600x1131",
+   "488KB"
+  ],
+  [
+   "cover_19.webp",
+   "1600x1131",
+   "364KB"
+  ],
+  [
+   "cover_21.webp",
+   "1600x900",
+   "77KB"
+  ],
+  [
+   "cover_23.webp",
+   "1600x900",
+   "90KB"
+  ]
+ ],
+ "covers.yml": "emptied (auto-registered local pool)"
+}

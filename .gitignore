@@ -10,6 +10,10 @@ public/
 *.swp
 *.swo
 *~
+node_modules/
 
 # Windows
 Desktop.ini
+
+# 本地素材备份(原图在 Pictures/Psyche 均有副本)
+source/_data/backup_reimu/
