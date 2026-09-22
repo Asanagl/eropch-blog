@@ -6,7 +6,7 @@
 title: eropch-blog
 subtitle: from Asanagi Sagiri
 description: 算法竞赛,百合同人,资源分享
-keywords:
+keywords: 算法竞赛,XCPC,ACM,Codeforces,题解,百合同人,资源分享
 author: Asanagi
 language: zh-CN
 timezone: Asia/Shanghai
@@ -97,6 +97,16 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: reimu
+
+# RSS (hexo-generator-feed)
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
+# Sitemap (hexo-generator-sitemap)
+sitemap:
+  path: sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

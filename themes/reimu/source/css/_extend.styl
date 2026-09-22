@@ -124,3 +124,30 @@ $base-style {
     font-weight: bold;
   }
 }
+
+/* ============ 曦园 Nell Garden ============ */
+/* 浅色：暖象牙底 + 青瞳第二强调 */
+:root {
+  --color-background: #f5f6ec;
+  --color-default: #3d3f33;
+  --color-h2-border: #e8ead9;
+  --color-code-background: #f6f7ee;
+  --cyan-accent: #4d9cc9;
+}
+
+/* 深色：藏青夜（尼尔裙色 #3a4257 加深） */
+[data-theme='dark'] {
+  &:root {
+    --color-background: #1a2138;
+    --color-wrap: #232c48;
+    --color-default: #d5dbec;
+    --color-h2-border: #303a5c;
+    --color-code-background: rgba(213, 219, 236, 0.08);
+    --cyan-accent: #7fb9d9;
+  }
+}
+
+/* 青瞳第二强调：正文链接悬停变青 */
+#content .article-entry a:hover {
+  color: var(--cyan-accent);
+}
