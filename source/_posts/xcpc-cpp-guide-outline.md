@@ -42,6 +42,8 @@ description: 面向零基础新生的 C/C++ 入门训练大纲：16 章覆盖从
 
 声明/初始化/命名；`int`/`long long`/`unsigned`/`float`/`double`/`char`/`bool` 及表示范围表；**数据范围→类型选择的直觉**（1e9 卡 int 边界、1e18 卡 long long）；溢出演示；隐式/强制转换；`unsigned` 倒序死循环坑；`const` 与 `#define`；作用域、全局数组自动清零
 
+> ✅ 正文已发布：[第 1 章 变量与数据类型](/2026/09/23/xcpc-cpp-guide-ch1-variables/)
+
 ### 第 2 章 ASCII 与字符运算
 
 ASCII 表；大小写转换；`c-'0'` 取数字值；char 参与算术
